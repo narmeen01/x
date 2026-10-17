@@ -11,10 +11,10 @@ export default function Home() {
     </blockquote>
     <figcaption className="font-medium">
       <div className="text-sky-500 dark:text-sky-400">
-        fatima
+       narmeen fatima
       </div>
       <div className="text-slate-700 dark:text-slate-500">
-        Staff Engineer, Algolia
+       student,universtiy
       </div>
     </figcaption>
   </div>
